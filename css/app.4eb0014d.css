@@ -1,0 +1,1 @@
+.completed{text-decoration:line-through}.todo_box{transition:all .3s;position:relative}.todo_box:hover{cursor:pointer;background-color:#f0f3bd;transform:scale(1.1)}.date-time{margin-top:5px}.button.is-danger.is-small{position:absolute;top:50%;transform:translateY(-50%);right:10px}.has-text-grey{color:#444}#app{background-color:#7e96eb;font-family:Roboto;min-block-size:100vh}
